@@ -220,4 +220,34 @@ body{
     background-color: #E5E5E5;
     width: 100%;
 }
+.portfolio-1{
+    padding:65px 100px 142px 100px;
 
+}
+.title{
+    margin-bottom: 40px;
+}
+.image__portfolio{
+    display: flex;
+    flex-wrap:wrap;
+    gap:20px;
+    max-width: 1300px;
+}
+
+.img-1{
+    max-width: 488px;
+
+}
+.img-2{
+    max-width: 600px;
+}
+.img-3{
+    max-width: 600px;
+}
+.img-4{
+    max-width: 488px;
+}
+.page__info{
+    background-color: #E2C4BA;
+    width: 100%;
+}
